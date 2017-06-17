@@ -1,0 +1,747 @@
+{
+ "results": [
+  {
+   "word_alternatives": [
+    {
+     "start_time": 0.09,
+     "alternatives": [
+      {
+       "confidence": 0.9824,
+       "word": "why"
+      },
+      {
+       "confidence": 0.0118,
+       "word": "trying"
+      }
+     ],
+     "end_time": 0.48
+    },
+    {
+     "start_time": 0.48,
+     "alternatives": [
+      {
+       "confidence": 0.9562,
+       "word": "not"
+      },
+      {
+       "confidence": 0.0362,
+       "word": "at"
+      }
+     ],
+     "end_time": 0.74
+    },
+    {
+     "start_time": 0.74,
+     "alternatives": [
+      {
+       "confidence": 0.876,
+       "word": "where"
+      },
+      {
+       "confidence": 0.1232,
+       "word": "wear"
+      }
+     ],
+     "end_time": 1.07
+    },
+    {
+     "start_time": 1.1,
+     "alternatives": [
+      {
+       "confidence": 0.9103,
+       "word": "I"
+      },
+      {
+       "confidence": 0.0103,
+       "word": "eye"
+      }
+     ],
+     "end_time": 1.33
+    },
+    {
+     "start_time": 1.33,
+     "alternatives": [
+      {
+       "confidence": 0.5083,
+       "word": "am"
+      }
+     ],
+     "end_time": 1.45
+    },
+    {
+     "start_time": 1.89,
+     "alternatives": [
+      {
+       "confidence": 0.5375,
+       "word": "to"
+      },
+      {
+       "confidence": 0.1898,
+       "word": "into"
+      },
+      {
+       "confidence": 0.0366,
+       "word": "see"
+      },
+      {
+       "confidence": 0.0285,
+       "word": "do"
+      }
+     ],
+     "end_time": 2.05
+    },
+    {
+     "start_time": 2.05,
+     "alternatives": [
+      {
+       "confidence": 0.8752,
+       "word": "your"
+      },
+      {
+       "confidence": 0.02,
+       "word": "Europe"
+      }
+     ],
+     "end_time": 2.21
+    },
+    {
+     "start_time": 2.21,
+     "alternatives": [
+      {
+       "confidence": 0.9065,
+       "word": "destination"
+      }
+     ],
+     "end_time": 3.04
+    },
+    {
+     "start_time": 3.04,
+     "alternatives": [
+      {
+       "confidence": 0.9031,
+       "word": "it"
+      },
+      {
+       "confidence": 0.0512,
+       "word": "it's"
+      }
+     ],
+     "end_time": 3.25
+    },
+    {
+     "start_time": 3.25,
+     "alternatives": [
+      {
+       "confidence": 0.6887,
+       "word": "said"
+      },
+      {
+       "confidence": 0.1049,
+       "word": "snowed"
+      },
+      {
+       "confidence": 0.0644,
+       "word": "sat"
+      },
+      {
+       "confidence": 0.0446,
+       "word": "sad"
+      },
+      {
+       "confidence": 0.0326,
+       "word": "setting"
+      },
+      {
+       "confidence": 0.01,
+       "word": "set"
+      }
+     ],
+     "end_time": 3.53
+    },
+    {
+     "start_time": 3.53,
+     "alternatives": [
+      {
+       "confidence": 0.9453,
+       "word": "here"
+      },
+      {
+       "confidence": 0.028,
+       "word": "where"
+      }
+     ],
+     "end_time": 3.77
+    },
+    {
+     "start_time": 3.77,
+     "alternatives": [
+      {
+       "confidence": 0.9884,
+       "word": "I"
+      }
+     ],
+     "end_time": 3.89
+    },
+    {
+     "start_time": 3.89,
+     "alternatives": [
+      {
+       "confidence": 0.9991,
+       "word": "was"
+      }
+     ],
+     "end_time": 4.09
+    },
+    {
+     "start_time": 4.09,
+     "alternatives": [
+      {
+       "confidence": 0.9969,
+       "word": "at"
+      }
+     ],
+     "end_time": 4.29
+    },
+    {
+     "start_time": 4.29,
+     "alternatives": [
+      {
+       "confidence": 0.9998,
+       "word": "your"
+      }
+     ],
+     "end_time": 4.43
+    },
+    {
+     "start_time": 4.43,
+     "alternatives": [
+      {
+       "confidence": 0.9811,
+       "word": "destination"
+      },
+      {
+       "confidence": 0.0169,
+       "word": "destiny"
+      }
+     ],
+     "end_time": 5.22
+    },
+    {
+     "start_time": 5.45,
+     "alternatives": [
+      {
+       "confidence": 0.8998,
+       "word": "it's"
+      },
+      {
+       "confidence": 0.0973,
+       "word": "its"
+      }
+     ],
+     "end_time": 5.68
+    },
+    {
+     "start_time": 5.68,
+     "alternatives": [
+      {
+       "confidence": 0.9862,
+       "word": "over"
+      }
+     ],
+     "end_time": 6.14
+    },
+    {
+     "start_time": 6.25,
+     "alternatives": [
+      {
+       "confidence": 0.9618,
+       "word": "get"
+      },
+      {
+       "confidence": 0.0216,
+       "word": "yet"
+      }
+     ],
+     "end_time": 6.45
+    },
+    {
+     "start_time": 6.45,
+     "alternatives": [
+      {
+       "confidence": 0.9856,
+       "word": "out"
+      }
+     ],
+     "end_time": 6.64
+    },
+    {
+     "start_time": 6.64,
+     "alternatives": [
+      {
+       "confidence": 0.9545,
+       "word": "of"
+      },
+      {
+       "confidence": 0.0234,
+       "word": "on"
+      }
+     ],
+     "end_time": 6.7
+    },
+    {
+     "start_time": 6.7,
+     "alternatives": [
+      {
+       "confidence": 0.9967,
+       "word": "my"
+      }
+     ],
+     "end_time": 6.82
+    },
+    {
+     "start_time": 6.82,
+     "alternatives": [
+      {
+       "confidence": 0.9888,
+       "word": "car"
+      }
+     ],
+     "end_time": 7.19
+    },
+    {
+     "start_time": 7.19,
+     "alternatives": [
+      {
+       "confidence": 0.998,
+       "word": "now"
+      }
+     ],
+     "end_time": 7.62
+    },
+    {
+     "start_time": 7.8,
+     "alternatives": [
+      {
+       "confidence": 0.4576,
+       "word": "is"
+      },
+      {
+       "confidence": 0.1551,
+       "word": "it's"
+      },
+      {
+       "confidence": 0.0307,
+       "word": "its"
+      },
+      {
+       "confidence": 0.0277,
+       "word": "as"
+      }
+     ],
+     "end_time": 7.96
+    },
+    {
+     "start_time": 7.96,
+     "alternatives": [
+      {
+       "confidence": 0.3967,
+       "word": "that"
+      },
+      {
+       "confidence": 0.1884,
+       "word": "set"
+      },
+      {
+       "confidence": 0.1337,
+       "word": "that's"
+      },
+      {
+       "confidence": 0.0535,
+       "word": "it"
+      },
+      {
+       "confidence": 0.0411,
+       "word": "SF"
+      },
+      {
+       "confidence": 0.0391,
+       "word": "it's"
+      },
+      {
+       "confidence": 0.0313,
+       "word": "sets"
+      },
+      {
+       "confidence": 0.0312,
+       "word": "let's"
+      },
+      {
+       "confidence": 0.0205,
+       "word": "isn't"
+      },
+      {
+       "confidence": 0.0202,
+       "word": "not"
+      },
+      {
+       "confidence": 0.0122,
+       "word": "debts"
+      }
+     ],
+     "end_time": 8.17
+    },
+    {
+     "start_time": 8.17,
+     "alternatives": [
+      {
+       "confidence": 0.8621,
+       "word": "seven"
+      },
+      {
+       "confidence": 0.0164,
+       "word": "seventy"
+      }
+     ],
+     "end_time": 8.52
+    },
+    {
+     "start_time": 8.52,
+     "alternatives": [
+      {
+       "confidence": 0.6772,
+       "word": "getting"
+      },
+      {
+       "confidence": 0.0487,
+       "word": "yeah"
+      },
+      {
+       "confidence": 0.034,
+       "word": "seventeen"
+      },
+      {
+       "confidence": 0.0205,
+       "word": "games"
+      },
+      {
+       "confidence": 0.014,
+       "word": "eight"
+      },
+      {
+       "confidence": 0.013,
+       "word": "days"
+      },
+      {
+       "confidence": 0.0108,
+       "word": "yet"
+      }
+     ],
+     "end_time": 8.76
+    },
+    {
+     "start_time": 8.79,
+     "alternatives": [
+      {
+       "confidence": 0.9703,
+       "word": "out"
+      }
+     ],
+     "end_time": 9.09
+    },
+    {
+     "start_time": 9.46,
+     "alternatives": [
+      {
+       "confidence": 0.9778,
+       "word": "my"
+      },
+      {
+       "confidence": 0.0111,
+       "word": "Lloyd"
+      }
+     ],
+     "end_time": 9.73
+    },
+    {
+     "start_time": 9.73,
+     "alternatives": [
+      {
+       "confidence": 0.98,
+       "word": "car"
+      },
+      {
+       "confidence": 0.0103,
+       "word": "Carr"
+      }
+     ],
+     "end_time": 10.35
+    },
+    {
+     "start_time": 10.48,
+     "alternatives": [
+      {
+       "confidence": 0.9949,
+       "word": "now"
+      }
+     ],
+     "end_time": 11.32
+    },
+    {
+     "start_time": 11.59,
+     "alternatives": [
+      {
+       "confidence": 0.8668,
+       "word": "service"
+      },
+      {
+       "confidence": 0.0885,
+       "word": "Sir"
+      }
+     ],
+     "end_time": 12.07
+    },
+    {
+     "start_time": 12.07,
+     "alternatives": [
+      {
+       "confidence": 0.5678,
+       "word": "that"
+      },
+      {
+       "confidence": 0.3527,
+       "word": "set"
+      },
+      {
+       "confidence": 0.0443,
+       "word": "at"
+      }
+     ],
+     "end_time": 12.3
+    },
+    {
+     "start_time": 12.3,
+     "alternatives": [
+      {
+       "confidence": 0.5495,
+       "word": "yeah"
+      },
+      {
+       "confidence": 0.2393,
+       "word": "yet"
+      },
+      {
+       "confidence": 0.1091,
+       "word": "Jack"
+      },
+      {
+       "confidence": 0.0178,
+       "word": "you"
+      }
+     ],
+     "end_time": 12.54
+    },
+    {
+     "start_time": 12.59,
+     "alternatives": [
+      {
+       "confidence": 0.9519,
+       "word": "out"
+      }
+     ],
+     "end_time": 13.02
+    }
+   ],
+   "keywords_result": {},
+   "alternatives": [
+    {
+     "timestamps": [
+      [
+       "Why ",
+       0.09,
+       0.48
+      ],
+      [
+       "not ",
+       0.48,
+       0.74
+      ],
+      [
+       "where ",
+       0.74,
+       1.07
+      ],
+      [
+       "I ",
+       1.1,
+       1.33
+      ],
+      [
+       "am ",
+       1.33,
+       1.45
+      ],
+      [
+       "into ",
+       1.67,
+       2.05
+      ],
+      [
+       "your ",
+       2.05,
+       2.21
+      ],
+      [
+       "destination ",
+       2.21,
+       3.04
+      ],
+      [
+       "it ",
+       3.04,
+       3.25
+      ],
+      [
+       "said ",
+       3.25,
+       3.53
+      ],
+      [
+       "here ",
+       3.53,
+       3.77
+      ],
+      [
+       "I ",
+       3.77,
+       3.89
+      ],
+      [
+       "was ",
+       3.89,
+       4.09
+      ],
+      [
+       "at ",
+       4.09,
+       4.29
+      ],
+      [
+       "your ",
+       4.29,
+       4.43
+      ],
+      [
+       "destination ",
+       4.43,
+       5.22
+      ],
+      [
+       "it's ",
+       5.45,
+       5.68
+      ],
+      [
+       "over ",
+       5.68,
+       6.15
+      ],
+      [
+       "get ",
+       6.25,
+       6.45
+      ],
+      [
+       "out ",
+       6.45,
+       6.64
+      ],
+      [
+       "of ",
+       6.64,
+       6.7
+      ],
+      [
+       "my ",
+       6.7,
+       6.82
+      ],
+      [
+       "car ",
+       6.82,
+       7.19
+      ],
+      [
+       "now ",
+       7.19,
+       7.62
+      ],
+      [
+       "is ",
+       7.8,
+       7.96
+      ],
+      [
+       "that ",
+       7.96,
+       8.17
+      ],
+      [
+       "seven ",
+       8.17,
+       8.52
+      ],
+      [
+       "getting ",
+       8.52,
+       8.76
+      ],
+      [
+       "out ",
+       8.79,
+       9.09
+      ],
+      [
+       "my ",
+       9.46,
+       9.73
+      ],
+      [
+       "car ",
+       9.73,
+       10.35
+      ],
+      [
+       "now ",
+       10.48,
+       11.32
+      ],
+      [
+       "service ",
+       11.59,
+       12.07
+      ],
+      [
+       "that ",
+       12.07,
+       12.3
+      ],
+      [
+       "yeah ",
+       12.3,
+       12.54
+      ],
+      [
+       "out. ",
+       12.59,
+       13.02
+      ]
+     ],
+     "confidence": 0.767,
+     "transcript": "Why not where I am into your destination it said here I was at your destination it's over get out of my car now is that 7 getting out my car now service that yeah out. "
+    }
+   ],
+   "final": true
+  }
+ ],
+ "result_index": 0
+}
