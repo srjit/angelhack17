@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block title %} Sample Scenario {% endblock %}
+
+{% block content %}
+<!-- <form  method="post" enctype="multipart/form-data" class="form-control">
+    {% csrf_token %}
+    {{ form }}
+    <input type="submit" value="Submit" class="btn-primary" />
+</form> -->
+
+<div class="row">
+  <form method="post" enctype="multipart/form-data" class="form-control">
+      {% csrf_token %}
+    <fieldset>
+      <legend>Sample Scenario</legend>
+      <label>Speed</label>
+      <input type="text" id="speed" name="speed" placeholder="Speed in miles/hr">
+
+      <label class="control-label">Image</label>
+      <input id="image" name ="image" type="file" class="file" data-show-preview="true">
+
+      <label class="control-label"> Audio</label>
+      <!-- <span class="glyphicon glyphicon-music"></span> -->
+      <input id="audio"  name ="audio" type="file" class="file" data-show-preview="true">
+    </fieldset>
+    <br><br>
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+  </div>
+</div>
+{% endblock %}
