@@ -21,6 +21,8 @@ from .forms import UploadFileForm
 from watson_developer_cloud import SpeechToTextV1, ToneAnalyzerV3
 from os.path import join, dirname
 
+from call_weather import get_weather_alerts
+
 
 def format(image_response, audio_response):
     processed_data = {}
@@ -98,7 +100,8 @@ def data_input(request):
         return render(request, 'results.html' , {
             "score": score ,
             "msg": msg,
-            "score_breakup": response
+            "score_breakup": response,
+            "weather_alert": get_weather_alerts()[0] if len(get_weather_alerts()) > 0 else ""
             })
 
     else:
